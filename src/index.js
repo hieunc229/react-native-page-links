@@ -1,5 +1,5 @@
-import PageContainer from './src/PageContainer';
-import Page from './src/Page';
+import PageContainer from './PageContainer';
+import Page from './Page';
 
 export default PageContainer;
 export {

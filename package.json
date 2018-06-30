@@ -1,5 +1,5 @@
 {
-  "name": "rn-pages",
+  "name": "react-native-page-links",
   "version": "1.0.0",
   "description": "A wrapper component that helps display and navigating between pages. Written in JavaScript with lazy loading",
   "main": "src/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hieunc229/rn-pages.git"
+    "url": "git+https://github.com/hieunc229/react-native-page-links.git"
   },
   "keywords": [
     "react-native",
