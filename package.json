@@ -1,0 +1,26 @@
+{
+  "name": "rn-pages",
+  "version": "1.0.0",
+  "description": "A wrapper component that helps display and navigating between pages. Written in JavaScript with lazy loading",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hieunc229/rn-pages.git"
+  },
+  "keywords": [
+    "react-native",
+    "page",
+    "transition",
+    "open",
+    "page"
+  ],
+  "author": "Hieu C. Nguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hieunc229/rn-pages/issues"
+  },
+  "homepage": "https://github.com/hieunc229/rn-pages#readme"
+}
